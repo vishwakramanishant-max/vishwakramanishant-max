@@ -63,7 +63,6 @@ I'm a robotics enthusiast from India who loves turning code into motion, from ti
 | OpenCV | ![](https://geps.dev/progress/50) |
 | Control Systems (PID) | ![](https://geps.dev/progress/60) |
 
-> Adjust the numbers (0-100) to match your real comfort level.
 
 ---
 
@@ -75,7 +74,6 @@ I'm a robotics enthusiast from India who loves turning code into motion, from ti
 | 🤖 *Your next project* | Add a short one-line description here | ROS 2, Python |
 | 👁️ *Your next project* | Add a short one-line description here | OpenCV, Python |
 
-> Replace the placeholder rows with links to your repos as you publish them.
 
 ---
 
