@@ -1,36 +1,84 @@
-<h1 align="center">Hi 👋, I'm Nishant VISHWAKRAMA</h1>
-<h3 align="center">A passionate frontend developer from InA passionate robotics developer building machines that movedia</h3>
+<h1 align="center">Hi 👋, I'm Nishant Vishwakrama</h1>
+<h3 align="center">🤖 Robotics developer building machines that move</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwakramanishant-max&label=Profile%20views&color=0e75b6&style=flat" alt="vishwakramanishant-max" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwakramanishant-max" alt="vishwakramanishant-max" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [HIgh speed line follower with the pid control](soon)
-
-- 🌱 I’m currently learning **Computer vision with OpenCV, SLAM, and motion planning**
-
-- 👯 I’m looking to collaborate on **Open-source robotics projects, especially ROS packages and embedded firmware**
-
-- 🤝 I’m looking for help with **Learning control systems and sensor fusion**
-
-- 💬 Ask me about **ROS 2, Arduino/ESP32, Python, C++, and robotics**
-
-- 📫 How to reach me **vishwakramanishant@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nishant vishwakrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant vishwakrama" height="30" width="40" /></a>
-<a href="https://instagram.com/nishantvishwakrama167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishantvishwakrama167" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nishantvishwakrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantvishwakrama" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishwakramanishant-max&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:vishwakramanishant@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/nishant-vishwakrama"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/nishantvishwakrama167"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.leetcode.com/nishantvishwakrama"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwakramanishant-max&show_icons=true&locale=en&layout=compact" alt="vishwakramanishant-max" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwakramanishant-max&show_icons=true&locale=en" alt="vishwakramanishant-max" /></p>
+I'm a robotics enthusiast from India who loves turning code into motion, from tiny microcontroller projects to ROS 2 powered robots.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakramanishant-max&" alt="vishwakramanishant-max" /></p>
+- 🔭 **Working on:** High-speed line follower with PID control *(coming soon)*
+- 🌱 **Learning:** Computer vision with OpenCV, SLAM, and motion planning
+- 👯 **Looking to collaborate on:** Open-source robotics projects, especially ROS packages and embedded firmware
+- 🤝 **Looking for help with:** Control systems and sensor fusion
+- 💬 **Ask me about:** ROS 2, Arduino/ESP32, Python, C++, and robotics
+- 📫 **Reach me at:** [vishwakramanishant@gmail.com](mailto:vishwakramanishant@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Robotics & Embedded**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros,linux,c,cpp,py,rust,matlab,opencv&theme=dark" alt="Robotics and embedded stack" />
+</p>
+
+**Web & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,redis,kafka,git,github,ai,ps&theme=dark" alt="Web and tools stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏁 **High-Speed Line Follower** | PID-controlled line follower built for speed and stability | C++, Arduino/ESP32 |
+| 🤖 *Your next project* | Add a short one-line description here | ROS 2, Python |
+| 👁️ *Your next project* | Add a short one-line description here | OpenCV, Python |
+
+> Replace the placeholder rows with links to your repos as you publish them.
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+[✔] PID control and tuning
+[~] Computer vision with OpenCV
+[~] SLAM and motion planning
+[ ] Sensor fusion (Kalman filters)
+[ ] ROS 2 navigation stack
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwakramanishant-max&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwakramanishant-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakramanishant-max&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwakramanishant-max&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" /></a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, feel free to star a repo or reach out. Let's build something that moves! 🤖</p>
