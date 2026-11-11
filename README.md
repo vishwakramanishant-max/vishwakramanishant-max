@@ -71,8 +71,8 @@ I'm a robotics enthusiast from India who loves turning code into motion, from ti
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🏁 **High-Speed Line Follower** | PID-controlled line follower built for speed and stability | C++, Arduino/ESP32 |
-| 🤖 *Your next project* | Add a short one-line description here | ROS 2, Python |
-| 👁️ *Your next project* | Add a short one-line description here | OpenCV, Python |
+| 🤖 *Bionic butterfly* |bot to cope the real buttery movement | ESP32 , Python |
+| 👁️ *master and slave arm * | To understand the control system | sensors , c++ |
 
 
 ---
@@ -132,7 +132,6 @@ I'm a robotics enthusiast from India who loves turning code into motion, from ti
   <img src="https://raw.githubusercontent.com/vishwakramanishant-max/vishwakramanishant-max/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-> The snake needs the small workflow file `.github/workflows/snake.yml` (included). It appears after the action runs once.
 
 ---
 
