@@ -71,7 +71,7 @@ I'm a robotics enthusiast from India who loves turning code into motion, from ti
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🏁 **High-Speed Line Follower** | PID-controlled line follower built for speed and stability | C++, Arduino/ESP32 |
-| 🤖 *Bionic butterfly* |bot to cope the real buttery movement | ESP32 , Python |
+| 🤖 *Bionic butterfly* |bot to cope the real butterfly movement | ESP32 , Python |
 | 👁️ *master and slave arm * | To understand the control system | sensors , c++ |
 
 
